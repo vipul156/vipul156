@@ -1,21 +1,158 @@
-# 💫 About Me:
-I am a Computer Science undergraduate specializing in Frontend Development with expertise in React.js, Next.js, and modern JavaScript. I focus on building scalable, high-performance web architectures and responsive user interfaces using tools like Tailwind CSS and Framer Motion. I am passionate about mastering full-stack engineering to deliver complete, robust digital solutions.
+# Hi there, I'm Vipul Kumar 👋
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Beautiful+Web+Experiences)](https://git.io/typing-svg)
+  
+  [![GitHub followers](https://img.shields.io/github/followers/vipul156?style=social)](https://github.com/vipul156)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vipul-kumar-33754b240)
+  [![Email](https://img.shields.io/badge/Email-vipulkumar8986%40gmail.com-red?style=flat&logo=gmail)](mailto:vipulkumar8986@gmail.com)
+  
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vipul-kumar-33754b240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vipulkumar8986@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
+## 🚀 About Me
+
+🎓 Computer Science & Engineering student at **JSS Academy of Technical Education, Noida** (2023-2027)
+
+💻 Passionate Frontend Developer specializing in **React.js** and **Next.js**
+
+🎨 Love creating smooth, interactive web experiences with **Framer Motion** and modern UI libraries
+
+📍 Based in Noida, Uttar Pradesh, India
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Libraries & Tools
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=for-the-badge&logo=react&logoColor=white)
+
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🤖 AI Agent Builder – ToolChain
+> Modular AI Agent Creation Platform built with Next.js, shadcn/ui, React Flow & Framer Motion
+
+[![Repository](https://img.shields.io/badge/Repository-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/vipul156/toolchain)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-green?style=for-the-badge&logo=vercel)](https://toolchain-three.vercel.app/)
+
+**Key Features:**
+- 🎨 Drag-and-drop agent workflow designer using React Flow
+- ✨ Smooth animations with Framer Motion
+- 🧩 Clean, accessible UI components with shadcn/ui
+- 📱 Fully responsive design
+
+---
+
+### ☕ Get-Me-A-Chai
+> Full-Stack Donation Platform with secure payment integration
+
+[![Repository](https://img.shields.io/badge/Repository-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/vipul156/get-me-a-chai)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-green?style=for-the-badge&logo=vercel)](https://get-me-a-chai-omega-sepia.vercel.app/)
+
+**Tech Stack:** Next.js • NextAuth • Razorpay • Tailwind CSS
+
+**Key Features:**
+- 🔐 Secure authentication with NextAuth
+- 💳 Razorpay payment gateway integration
+- ⚡ Real-time payment status updates
+- 📱 Responsive design
+
+---
+
+### 🌤️ Weather Dashboard
+> Real-Time Weather Application with Open-Meteo API
+
+[![Repository](https://img.shields.io/badge/Repository-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/vipul156/weather-app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-green?style=for-the-badge&logo=vercel)](https://weather-app-87.netlify.app/)
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Open-Meteo API
+
+**Key Features:**
+- 🔍 Search-based weather fetching
+- 🌡️ Temperature, humidity, wind speed data
+- 📊 7-day weather forecast
+- 📱 Mobile-first responsive design
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=vipul156&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vipul156&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul156&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vipul156&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vipul156&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 Core Competencies
+
+```javascript
+const vipul = {
+    code: ["JavaScript", "HTML5", "CSS3"],
+    frameworks: ["React.js", "Next.js"],
+    styling: ["Tailwind CSS", "Framer Motion", "shadcn/ui"],
+    concepts: ["REST APIs", "Responsive Design", "State Management", "DOM Manipulation"],
+    currentFocus: "Building scalable and performant web applications",
+    interests: ["Frontend Development", "Web Animations", "UI/UX Design"]
+};
+```
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns and performance optimization
+- TypeScript for type-safe applications
+- Backend development with Node.js
+- System design and scalable architectures
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipul-kumar-33754b240)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vipul156)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulkumar8986@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=vipul156&color=3B82F6&style=flat-square)
+  
+  ⭐️ From [vipul156](https://github.com/vipul156)
+
+</div>
