@@ -98,19 +98,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=vipul156&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vipul156&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul156&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=vipul156&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=vipul156&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=vipul156&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vipul156&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
 </div>
 
----
+<br />
 
+---
 ## 💡 Core Competencies
 
 ```javascript
