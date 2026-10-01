@@ -79,7 +79,7 @@ $ vipul --impact
   <img height="168" src="https://github-readme-stats.vercel.app/api?username=vipul156&show_icons=true&hide_border=true&bg_color=00000000&title_color=cdfb2d&icon_color=cdfb2d&text_color=a1a1b5" alt="github stats" />
   <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul156&layout=compact&hide_border=true&bg_color=00000000&title_color=cdfb2d&text_color=a1a1b5&langs_count=8" alt="top languages" />
   <br/>
-  <img height="150" src="https://streak-stats.demolab.com?user=vipul156&hide_border=true&background=00000000&ring=cdfb2d&fire=ffe500&currStreakLabel=cdfb2d&sideLabels=a1a1b5&dates=8b8b9e" alt="streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=vipul156&hide_border=true&background=00000000&ring=cdfb2d&fire=ffe500&currStreakLabel=cdfb2d&currStreakNum=cdfb2d&sideNums=ffffff&sideLabels=a1a1b5&dates=8b8b9e" alt="streak" />
 </div>
 
 <br/>
