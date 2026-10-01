@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vipul156/Vipul-Kumar/main/public/logo.png" width="130" alt="Vipul Kumar — logo" />
-
 # VIPUL KUMAR.
 
 <a href="https://github.com/vipul156">
